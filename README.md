@@ -1,1 +1,1 @@
-Companion R package to [rtest.nvim](https://github.com/dreanod/rtest.nvim).
+Companion R package to [rtests.nvim](https://github.com/dreanod/rtests.nvim).
