@@ -1,0 +1,10 @@
+Package: rtestNvim
+Title: Companion R Package for rtests.nvim Plugin
+Version: 0.0.1
+Authors@R: 
+    person("Denis", "Dreano", , "denis.dreano@protonmail.ch", role = c("aut", "cre"))
+Description: Provides a function that runs tests for the rtest.nvim plugin.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
